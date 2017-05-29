@@ -1,0 +1,36 @@
+body{
+	font-family: 'Roboto', sans-serif;
+}
+.caja{
+	background-color: pink;	
+}
+
+header{
+	text-align: center;
+}
+.back{
+	background-image: url(http://lorempixel.com/output/nature-q-c-1240-700-4.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 100vh;
+}
+.back .container{
+	background-color: rgba(255,255,255,0.5);
+}
+
+.cosa{
+	background-image: url(http://lorempixel.com/output/nature-q-c-1240-700-4.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	padding: 50px;
+}
+.enlace{
+	float: right;
+}
+.cosa h1  {
+	color: whitesmoke;
+	font-size: 30px;
+	text-align: center;
+}
